@@ -1,0 +1,40 @@
+Arduino is in  cd //usr/share/arduino
+
+
+
+to copy over ssh
+scp -P 22 vas@192.168.10.110:~/<filename> ./
+
+
+####### Git commands ######
+
+git config --global user.name "vas"
+git config --global user.email "vassya@iinet.net.au" 
+
+git config --list
+
+git init   this initializes a directory
+if we want to stop tracking this directore we simply remove this folder
+
+
+git status
+
+touch .gitignore        we can add files we want git to ignore
+
+working directory -> staging area -> git repository
+
+git reset
+
+git add -A   for all 
+
+git add <filename>
+
+git status
+
+git commit -m "message"
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+pi ubuntu@192.168.10.117
+ubuntu main lateralus 192.168.10.110
+lap aspire  192.168.10.119
