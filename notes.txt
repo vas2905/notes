@@ -1,6 +1,7 @@
 Arduino is in  cd //usr/share/arduino
 
 
+sudo mount /dev/sdx /mnt
 
 to copy over ssh
 scp -P 22 vas@192.168.10.110:~/<filename> ./
