@@ -50,6 +50,12 @@ git diff        shows you what has changed
 git pull origin master 
 git push origin master
 
+to go back to a commit
+
+git checkout  <commit code>
+
+git branch <new branch name>  good for trying out things
+
 
 
 
