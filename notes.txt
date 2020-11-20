@@ -62,7 +62,8 @@ git checkout  <commit code>
 
 git branch <new branch name>  good for trying out things
 
-
+to help no have to constantly enter username and password
+git config --global credential.helper 'cache --timeout 3600'
 
 
 
