@@ -48,6 +48,8 @@ make whatever changes
 
 git diff        shows you what has changed
 
+### repositories #####
+general notes
 git remote add origin https://github.com/vas2905/notes.git
 
 to make things quicker we can add
