@@ -55,6 +55,10 @@ git remote add origin https://github.com/vas2905/notes.git
 ### ubuntu 20 config files
 
 https://github.com/vas2905/config_files_20.git 
+
+https://github.com/vas2905/Arduino.git
+
+
 to make things quicker we can add
 
 git push --set-upstream origin master
