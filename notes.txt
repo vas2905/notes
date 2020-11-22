@@ -7,6 +7,9 @@ to copy over ssh
 scp -P 22 vas@192.168.10.110:~/<filename> ./
 
 
+refresh bash rc source ~/.bashrc
+
+
 ####### Git commands ######
 
 git config --global user.name "vas"
