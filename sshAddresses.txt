@@ -3,6 +3,7 @@ ssh addresses
 
 
 pi ubuntu@192.168.10.117
+pi8 vas@192.168.10.117
 main lateralus 192.168.10.116
 lap aspire  192.168.10.119
 lap vivo vas@192.168.10.112
