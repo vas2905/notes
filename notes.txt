@@ -58,7 +58,7 @@ https://github.com/vas2905/config_files_20.git
 
 https://github.com/vas2905/Arduino.git
 
-https://githun.com/vas2905/embedded_sys_assign.git
+https://github.com/vas2905/embedded_sys_assign.git
 
 to make things quicker we can add
 
