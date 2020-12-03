@@ -9,3 +9,5 @@ lap aspire  192.168.10.119
 lap vivo vas@192.168.10.112
 
 PI 20.10 vas@192.168.10.111
+
+desktop vas@192.168.10.115

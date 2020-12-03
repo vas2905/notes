@@ -7,6 +7,9 @@ color themes
     :highlight CursorLine 
 
 
+
+
+
 Arduino is in  cd //usr/share/arduino
 
 
