@@ -1,3 +1,11 @@
 pi ubuntu@192.168.10.117
 ubuntu main lateralus 192.168.10.110
 lap aspire  192.168.10.119
+<<<<<<< HEAD
+=======
+lap vivo vas@192.168.10.112
+
+PI 20.10 vas@192.168.10.111
+
+desktop vas@192.168.10.115
+>>>>>>> 011bff7208607be6f75e83dbb8134a0cd5f77d37
